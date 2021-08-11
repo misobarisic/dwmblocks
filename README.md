@@ -10,3 +10,13 @@ Unpatched build of dwmblocks
 
 ## Scripts
 Make sure to grab my dwmblocks status scripts from my [dotfiles](https://github.com/misobarisic/dotfiles) repo under `.config/dwmblocks/` and should be placed in `~/.config/dwmblocks/`.
+
+
+## Author
+
+**Mišo Barišić**
+
+
+* Website: https://www.misobarisic.com
+* GitHub: [@misobarisic](https://github.com/misobarisic)
+* GitLab: [@misobarisic](https://gitlab.com/misobarisic)
