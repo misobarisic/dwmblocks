@@ -6,7 +6,8 @@ static const Block blocks[] = {
 	{"|  ", "/home/mb/.config/dwmblocks/cpu_percentage",	2,		0},
 	{"", "/home/mb/.config/dwmblocks/cpu_bars",	2,		0},
 	/*{"| ",     "/home/mb/.config/dwmblocks/arch_upt",	120,		0},*/
-	{"| ",     "/home/mb/.config/dwmblocks/kernel",	0,		0},
+	/*{"| ",     "/home/mb/.config/dwmblocks/kernel",	0,		0},*/
+	{"|  ",     "/home/mb/.config/dwmblocks/volume_l",	1,		0},
 	{"| ",     "/home/mb/.config/dwmblocks/clock",	15,		0},
 	{" ",     "",	                                 0,		0},
 };
